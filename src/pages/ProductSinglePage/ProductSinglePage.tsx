@@ -222,16 +222,14 @@ const ProductSinglePage = () => {
 										<i className="fas fa-shopping-cart"></i>
 										<a className="btn-text mx-2 text-orange">add to cart</a>
 									</button>
-									<button
-										onClick={() => {
-											checkoutHandler(product)
-										}}
-										type="button"
-										className="buy-now btn mx-3">
-										<Link to="/checkout" className="btn-text text-white">
-											buy now
-										</Link>
-									</button>
+									<Link to="/checkout" className="btn-text text-white">
+										<button
+											onClick={() => {
+												checkoutHandler(product)
+											}}
+											type="button"
+											className="buy-now btn mx-3">Buy now</button>
+									</Link>
 								</div>
 							</div>
 						</div>

@@ -25,7 +25,7 @@ const HomePage = () => {
 	const products = useSelector(getAllProducts)
 	const productStatus = useSelector(getAllProductsStatus)
 
-	const tempProducts: string | any[] = []
+	const tempProducts: any[] = []
 	if (products.length > 0) {
 		for (let i in products) {
 			let randomIndex = Math.floor(Math.random() * products.length)
