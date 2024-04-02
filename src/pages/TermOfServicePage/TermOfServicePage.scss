@@ -1,0 +1,24 @@
+@import '../../App.scss';
+
+.terms {
+	.terms-content {
+		margin-bottom: 10rem;
+	}
+
+	.terms-bold {
+		font-weight: 700;
+	}
+	.terms-title {
+		margin-top: 5rem;
+		margin-bottom: 3rem;
+	}
+	p {
+		margin: 1.5rem 0;
+	}
+
+	.terms-box {
+		h3 {
+			margin-top: 5rem;
+		}
+	}
+}
