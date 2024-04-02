@@ -9,7 +9,12 @@ const Product = ({ product }: ProductType) => {
 			<div className="product-item bg-white">
 				<div className="category">{product?.category}</div>
 				<div className="product-item-img">
-					<img className="img-cover" src={product?.images[0]} alt={product.title} />
+					<img
+						loading="lazy"
+						className="img-cover"
+						src={product?.images[0]}
+						alt={product.title}
+					/>
 				</div>
 				<div className="product-item-info fs-14">
 					<div className="brand">
