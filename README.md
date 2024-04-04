@@ -30,4 +30,5 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/react-router-icon-2048x1116-jfeevj0l.png" alt="react router DOM" width="60" height="40"/> </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="40" height="40"/> </a>
