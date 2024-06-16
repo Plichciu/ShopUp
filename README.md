@@ -2,7 +2,7 @@
 
 
 
-<h2>Demo: <a href="https://shopup2.netlify.app/">https://shopup2.netlify.app/</a></h2>
+
 
 
 
